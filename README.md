@@ -21,9 +21,7 @@ Solución end‑to‑end para **transferencias bancarias** basada en **microserv
 
 ## Diagrama de infraestructura
 
-> Si tu repo conserva la ruta `/docs/infra.png`, GitHub mostrará la imagen a continuación.
-
-![Infraestructura](.infra.png)
+![Infraestructura](./infra.png)
 
 > Fallback en **Mermaid** si visualizas este README fuera de GitHub o sin la imagen disponible:
 
